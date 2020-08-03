@@ -1,1 +1,16 @@
+certifi==2020.6.20
+chardet==3.0.4
+idna==2.10
+inflection==0.5.0
+more-itertools==8.4.0
+multitasking==0.0.9
+numpy==1.19.1
+pandas==1.1.0
+python-dateutil==2.8.1
 python-dotenv==0.14.0
+pytz==2020.1
+Quandl==3.5.2
+requests==2.24.0
+six==1.15.0
+urllib3==1.25.10
+yfinance==0.1.54
